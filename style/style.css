@@ -50,7 +50,8 @@ section {
 .article {
     height: 120px;
     margin-top: 15px;
-    margin-bottom: 50px;
+    margin-bottom: 25px;
+    border-bottom: 1px dotted #CFCFCF;
 }
 
 .article img {
